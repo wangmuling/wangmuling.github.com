@@ -1,0 +1,16 @@
+# Site settings
+title: WENHAO Blog
+email: wenhao@leochin.com
+description: > # this means to ignore newlines until "baseurl:"
+  Less is more.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://leochin.com" # the base hostname & protocol for your site
+twitter_username: leo4chin
+github_username:  hnrainll
+
+# Build settings
+#markdown: kramdown
+markdown: redcarpet
+
+# syntax highlighting
+highlighter: pygments
